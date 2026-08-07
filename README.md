@@ -1,0 +1,2 @@
+# OmicronLost.github.io
+Omicron
